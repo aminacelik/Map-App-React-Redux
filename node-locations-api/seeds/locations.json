@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Hotel Bristol",
+		"latitude": "43.8528392",
+		"longitude": "18.3874856",
+		"category": ["hotels"]
+	},
+	{
+		"name": "Hotel Europe",
+		"latitude": "43.85835",
+		"longitude": "18.42529",
+		"category": ["hotels"]
+	},
+	{
+		"name": "Hotel Hollywood",
+		"latitude": "43.8291098",
+		"longitude": "18.3070304",
+		"category": "hotels"
+	},
+	{
+		"name": "Sarajevo City Center",
+		"latitude": "43.8553763",
+		"longitude": "18.4059781",
+		"category": "shopping_malls"
+	},
+	{
+		"name": "BBI Center",
+		"latitude": "43.8585376",
+		"longitude": "18.4143587",
+		"category": "shopping_malls"
+	}
+]
