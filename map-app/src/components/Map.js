@@ -40,7 +40,7 @@ class Map extends Component {
     		console.log("Will show markers!");
     		this.props.data.map((location, _index) => {
     			return markers.push(
-    				<CustomMarker key={location._id} lat={location.latitude} lng={location.longitude} name={location.name} />
+    				<CustomMarker key={location._id} lat={location.latitude} lng={location.longitude} name={location.name} category={location.category} />
     			);
     		});
     	}

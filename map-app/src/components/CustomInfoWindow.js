@@ -5,7 +5,10 @@ export class CustomInfoWindow extends Component {
 	render() {
 		return (
 			<InfoWindow>
-				<p>Name: {this.props.name}</p>
+				<div>
+					<h4>{this.props.name}</h4>
+					<p>Category: {this.props.category}</p>
+				</div>
 			</InfoWindow>
 		);
 	}
